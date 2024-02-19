@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container{
+    width: 1140px;
+    margin:auto;
+    height: 55px;
+    border: 1px solid black;
+}
+
+.homeslider{
+
+}
